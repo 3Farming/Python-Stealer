@@ -66,5 +66,5 @@ python main.py
 ---
 
 ## Additional Information
-- Need help? Join the [Discord Server](https://astraadev.github.io/#/discord).
+- Need help? Join the [Discord Server](https://discord.gg/uxQtnQwN4d).
 - Contributions are welcome! Open an issue or create a pull request.
